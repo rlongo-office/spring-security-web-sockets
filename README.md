@@ -15,3 +15,5 @@ To build the project, run the command: mvn clean install. This will build a war 
 Alternatively, run the project from an IDE.
 
 To login, use credentials from the data.sql file in src/main/resource, eg: user/password.
+
+Edited by me
